@@ -1,9 +1,9 @@
 {
-    "name": "graze/supervisor",
+    "name": "mstrychalski/supervisor",
 
     "description": ":vertical_traffic_light: Process supervisor for PHP.",
 
-    "homepage": "https://github.com/graze/supervisor",
+    "homepage": "https://github.com/mstrychalski/supervisor",
 
     "license": "MIT",
 
